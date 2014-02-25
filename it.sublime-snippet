@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+it('${1}', function(){
+	${2}
+});
+
+]]></content>
+	<tabTrigger>it</tabTrigger>
+	<scope>source.js</scope>
+	<description>Unit.js function</description>
+</snippet>

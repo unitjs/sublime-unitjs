@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+value(function(){
+	throw new Error('${1}');
+})
+.throws()
+
+]]></content>
+	<tabTrigger>value.throws</tabTrigger>
+	<scope>source.js</scope>
+	<description>Unit.js assertion</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+when(function(){
+	${1}
+})
+
+]]></content>
+
+	<tabTrigger>when</tabTrigger>
+	<scope>source.js</scope>
+	<description>Unit.js helper</description>
+</snippet>
