@@ -1,11 +1,11 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 exception(function(){
-	${1}
+  ${1}
 })
 
 ]]></content>
-	<tabTrigger>exception</tabTrigger>
-	<scope>source.js</scope>
-	<description>Unit.js asserter</description>
+  <tabTrigger>exception</tabTrigger>
+  <scope>source.js</scope>
+  <description>Unit.js asserter</description>
 </snippet>

@@ -1,11 +1,11 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 describe('${1}', function(){
-	${2}
+  ${2}
 });
 
 ]]></content>
-	<tabTrigger>describe</tabTrigger>
-	<scope>source.js</scope>
-	<description>Unit.js function</description>
+  <tabTrigger>describe</tabTrigger>
+  <scope>source.js</scope>
+  <description>Unit.js function</description>
 </snippet>

@@ -1,11 +1,11 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 var trigger = function(){
   throw new Error('Whoops !');
 });
 
 ]]></content>
-	<tabTrigger>trigger-error</tabTrigger>
-	<scope>source.js</scope>
-	<description>Unit.js shortcut: create an Error trigger</description>
+  <tabTrigger>trigger-error</tabTrigger>
+  <scope>source.js</scope>
+  <description>Unit.js shortcut: create an Error trigger</description>
 </snippet>

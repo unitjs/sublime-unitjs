@@ -1,12 +1,12 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 case(function(){
-	${1}
+  ${1}
 })
 
 ]]></content>
 
-	<tabTrigger>case</tabTrigger>
-	<scope>source.js</scope>
-	<description>Unit.js helper</description>
+  <tabTrigger>case</tabTrigger>
+  <scope>source.js</scope>
+  <description>Unit.js helper</description>
 </snippet>
