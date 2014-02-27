@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+value(${1})
+]]></content>
+  <tabTrigger>value</tabTrigger>
+  <scope>source.js</scope>
+  <description>Unit.js asserter</description>
+</snippet>

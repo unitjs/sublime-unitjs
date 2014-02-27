@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+undefined(${1})
+]]></content>
+  <tabTrigger>undefined</tabTrigger>
+  <scope>source.js</scope>
+  <description>Unit.js asserter</description>
+</snippet>

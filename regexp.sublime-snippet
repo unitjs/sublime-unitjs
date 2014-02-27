@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+regexp(${1})
+]]></content>
+  <tabTrigger>regexp</tabTrigger>
+  <scope>source.js</scope>
+  <description>Unit.js asserter</description>
+</snippet>

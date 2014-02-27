@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+bool(${1})
+]]></content>
+  <tabTrigger>bool</tabTrigger>
+  <scope>source.js</scope>
+  <description>Unit.js asserter</description>
+</snippet>
