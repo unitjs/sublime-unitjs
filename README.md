@@ -14,6 +14,9 @@ Snippets :
   * value-throws
   * trigger-error
  
+Example for the snippet `exception' :
+
+![Snippet: exception](http://unitjs.com/assets/img/screen-sublime-unitjs-snippet.gif)
 
 ## Installation ##
 
