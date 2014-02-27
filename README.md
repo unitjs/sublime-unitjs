@@ -2,6 +2,19 @@
 
 This is a [Sublime Text](http://www.sublimetext.com) package which includes a bunch of handy _snippets_ for writing unit tests with [Unit.js](http://unitjs.com).
 
+Snippets :
+
+  * describe
+  * it
+  * case
+  * given
+  * when
+  * then
+  * exception
+  * value-throws
+  * trigger-error
+ 
+
 ## Installation ##
 
 I'm using [Sublime 3](http://www.sublimetext.com/3) and it works fine.
